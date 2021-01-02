@@ -11,3 +11,5 @@ What you will need:
 4. Ir Transmitter
 5. BreadBoard 
 5. JumpWires
+
+Start by connecting your breadboards negtive rail to ground. Then connect the postive rail to 3.3v, the reason you are connecting the postive rail to 3.3v is beacuse to much volatge can kill the ir transmitter. Once you have your positve and negtive connected, place the 100 ohm Resistor to the negtive rail on the breadboard, then the other end to the the middle of the bread board
